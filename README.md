@@ -1,4 +1,4 @@
-# Track 1 — Day 18: Multiple Prototype Experiment
+# Track 1 — Day 19: Multiple Prototype Experiment
 
 ## 1. Thông tin cá nhân và đội ngũ
 
@@ -45,4 +45,5 @@ AI được dùng để rà tài liệu Day 17/Lab 19, gợi ý và viết Desig
 
 ### Ghi chú trước khi nộp
 
-Sáu file Markdown theo mẫu nằm ở thư mục gốc; ba HTML nằm trong `prototypes/`. Các liên kết HTML tương đối mở được sau khi tải hoặc clone repo. Repo GitHub người nộp cung cấp hiện mang tên `Day19`, trong khi ảnh yêu cầu mẫu `Day18`; cần đổi tên trước khi nộp. Sau khi tải file lên, bật GitHub Pages và kiểm tra ba URL công khai theo [Prototype Link](prototype-link.md). Đã ghi ngày test và tiêu chí sàng lọc của Minh theo thông tin tôi cung cấp; hình thức gặp chưa được nêu.
+Sáu file Markdown theo mẫu nằm ở thư mục gốc; ba HTML nằm trong `prototypes/`. Các liên kết HTML tương đối mở được sau khi tải hoặc clone repo. Repo GitHub người nộp và thư mục nộp đều dùng đúng tên Day19. Sau khi tải file lên, bật GitHub Pages và kiểm tra ba URL công khai theo [Prototype Link](prototype-link.md). Đã ghi ngày test và tiêu chí sàng lọc của Minh theo thông tin tôi cung cấp; hình thức gặp chưa được nêu.
+
